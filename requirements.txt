@@ -15,7 +15,7 @@ psycopg2-binary==2.9.9
 py==1.11.0
 pyparsing==2.4.6
 pytest==5.3.5
-requests==2.31.0
+requests==2.32.0
 selenium==3.141.0
 six==1.14.0
 urllib3==1.26.18
